@@ -1,0 +1,56 @@
+:root {
+  --mypry: #7aa332b7;
+  --mysec: #b6c799
+}
+
+a {
+  text-decoration: none;
+  color: var(--mysec);
+}
+
+a:hover {
+  text-decoration: none;
+  color: var(--mysec);
+  opacity: .3;
+}
+
+img {
+  width: 100%;
+}
+
+html,
+body {
+  color: var(--mysec);
+  background: url('../asserts/img/Deb_bg.png') center center;
+  /* height: 100%; */
+  /* text-shadow: 1px 1px 1px var(--mypry); */
+}
+
+.birthday-msg h1 {
+  color: var(--mypry);
+}
+
+.img-main img {
+  border-bottom-left-radius: 50%;
+}
+
+.btn-outline-primary {
+  border: var(--mysec) solid 1px;
+  color: var(--mysec);
+}
+
+.btn-outline-primary:hover {
+  border: var(--mysec) solid 1px;
+  background-color: var(--mysec);
+  opacity: .7;
+}
+
+textarea {
+  resize: none;
+}
+
+@media (max-width: 350px) {
+  .birthday-msg h1 {
+    font-size: 3rem;
+  }
+}
