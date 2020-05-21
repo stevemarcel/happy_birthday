@@ -6,11 +6,11 @@
 
 - Desktop view
 
-![Desktop view](asserts/layouts/Happy-Birthday-desktop-view.jpg)
+![Desktop view](assets/layouts/Happy-Birthday-desktop-view.jpg)
 
 - Mobile view
 
-![Mobile view](asserts/layouts/Happy-Birthday-mobile-view.jpg)
+![Mobile view](assets/layouts/Happy-Birthday-mobile-view.jpg)
 
 ## Author(s)
 

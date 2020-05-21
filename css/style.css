@@ -21,7 +21,8 @@ img {
 html,
 body {
   color: var(--mysec);
-  background: url('../asserts/img/Deb_bg.png') center center;
+  background: url('../assets/img/Deb_bg.png') center center;
+  height: 100%;
 }
 
 .birthday-msg h1 {
