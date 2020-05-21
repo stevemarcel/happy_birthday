@@ -1,6 +1,6 @@
 :root {
   --mypry: #7aa332b7;
-  --mysec: #b6c799
+  --mysec: #b6c799;
 }
 
 a {
@@ -22,8 +22,6 @@ html,
 body {
   color: var(--mysec);
   background: url('../asserts/img/Deb_bg.png') center center;
-  /* height: 100%; */
-  /* text-shadow: 1px 1px 1px var(--mypry); */
 }
 
 .birthday-msg h1 {
